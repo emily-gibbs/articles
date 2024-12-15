@@ -1,2 +1,3 @@
 # articles
-Collection of articles I've written on technical topics, hosted as Jupyter Books
+Link to my Medium account: https://medium.com/@emily_gibbs
+
